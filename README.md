@@ -83,7 +83,7 @@ I'm a passionate **Full Stack Developer** who loves creating innovative web appl
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/saquibanjum](https://www.linkedin.com/in/md-saquib-anjum-khan-414510254/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saquib-anjum-khan-414510254/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saquib1312@gmail.com)
 
